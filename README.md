@@ -32,4 +32,9 @@ Now be careful with this because cryptography is the process of taking data and 
 ...
 ```
 
-then you can use this tiny script. Only tested it in MacOS
+then you can use this tiny script. Only tested it in MacOS.
+
+### Instructions
+
+Just put script file into directory containing your videos nearby srt files, make it shell executable with `chmod +x fixsrt.cmd` command
+and run. Script will automatically process all child, subchild ... subdirectories.
