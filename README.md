@@ -18,9 +18,9 @@ Now be careful with this because cryptography is the process of taking data and 
 ....
 ```
 
-```
 then you can use this fix to make subtitle file look like:
 
+```
 1
 00:00:00,420 --> 00:00:07,370
 Steganography is the process, the science of taking data and hiding it in other data.
