@@ -1,5 +1,5 @@
 # fixsrt
-This is a tiny shell script for fixig some wrong subtitles generated from some Udemy courses to open them in IINA video player without errors.
+This is a tiny shell script for fixig some wrong subtitles generated from some Udemy courses to open them in MacOS **IINA** video player without errors.
 
 If your _file_.srt structure looks like this:
 
