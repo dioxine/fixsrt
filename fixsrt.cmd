@@ -1,6 +1,6 @@
 OIFS="$IFS"
 IFS=$'\n'
-# Find all jpg files under /efs/ folder
+# Find all srt files in current . directory and recursively in all subfolders
 for file in $(find . -type f -name "*.srt")
 do
      echo "Working on ${file} ..."
