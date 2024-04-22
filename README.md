@@ -32,7 +32,7 @@ Now be careful with this because cryptography is the process of taking data and 
 ...
 ```
 
-then you can use this tiny script. Only tested it in MacOS.
+then you can use this tiny script.
 
 ### Instructions
 
